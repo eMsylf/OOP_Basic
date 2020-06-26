@@ -1,0 +1,2 @@
+C:\Users\bobje\Documents\HKUProjects\OOP_Basic_2\Week 1 - Lesrooster\Debug\Week 1 - Lesrooster.exe
+C:\Users\bobje\Documents\HKUProjects\OOP_Basic_2\Week 1 - Lesrooster\Debug\Week 1 - Lesrooster.pdb
